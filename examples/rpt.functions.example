@@ -1,0 +1,7 @@
+[functions]
+
+; Shutdown Server
+990 = cmd,/etc/asterisk/local/shutdown.sh
+
+; Reboot Server
+991 = cmd,/etc/asterisk/local/reboot.sh
